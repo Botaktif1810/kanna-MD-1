@@ -1,7 +1,6 @@
 /* THANKS TO
 Allah SWT
 Nurutomo
-Leo
 Bochilgaming
 Rominaru
 Kannachann
